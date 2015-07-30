@@ -1,7 +1,7 @@
 SkyWay Android SDK release notes
 =============================
 
-[日本語](./release-notes_ja.md)
+[日本語](./release-notes.md)
 
 ###　New features
 --------------------------
