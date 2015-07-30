@@ -11,6 +11,8 @@ SkyWay simplifies peer-to-peer data, video, and audio calls using WebRTC.
 Android 4.0.3+
 
 ---
+## SkyWay-Android-SDK
+
 「SkyWay Android SDK」はSkyWayをAndroidから利用できるフレームワークです。<br>
 SkyWayは、WebRTCを利用したピア·ツー·ピアのデータ、ビデオ、オーディオ通信を簡単に実現します。
 
