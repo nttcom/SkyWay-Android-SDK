@@ -5,6 +5,18 @@ SkyWay Android SDK release notes
 
 ###　New features
 --------------------------
+Version 0.2.0
+
+* Added methods to MediaStream Class.
+	- switchCamera
+
+*　Fixed bug that caused the mediaConnection to fail on some devices.
+
+* Fixed bug that disconnected existing P2P connections when `peer.disconnect()` was called.
+
+* Fixed bug that caused sending large files from Android to JS to fail.
+
+
 
 Version 0.1.1
 
