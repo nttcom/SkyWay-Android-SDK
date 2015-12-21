@@ -8,7 +8,7 @@ SkyWay Android SDK release notes
 
 Version 0.2.1
 
-* PeerOptionの*turn*のデフォルト値を```true```にしました。
+* PeerOptionの*turn*プロパティのデフォルト値を```true```にしました。
 
 Version 0.2.0
 
