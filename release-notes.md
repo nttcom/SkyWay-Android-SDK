@@ -6,6 +6,10 @@ SkyWay Android SDK release notes
 ###　新機能
 --------------------------
 
+Version 0.2.1
+
+* PeerOption.turnのデフォルト値をtrueにしました。
+
 Version 0.2.0
 
 * MediaStreamにメソッドを追加しました。
