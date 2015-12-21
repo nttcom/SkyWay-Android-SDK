@@ -8,7 +8,7 @@ SkyWay Android SDK release notes
 
 Version 0.2.1
 
-* Changed the default value to ```YES``` on ​*turn*​ property of SKWPeerOption Class.
+* Changed the default value to ```YES``` on *turn* property of SKWPeerOption Class.
 
 Version 0.2.0
 
