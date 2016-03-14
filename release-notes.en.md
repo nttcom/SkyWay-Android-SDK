@@ -6,6 +6,10 @@ SkyWay Android SDK release notes
 ###　New features
 --------------------------
 
+Version 0.2.2
+
+* Fixed a bug in the metadata option of MediaConnection.
+
 Version 0.2.1
 
 * Changed the default value to ```YES``` on *turn* property of SKWPeerOption Class.
