@@ -4,7 +4,7 @@ We have released a new WebRTC platform, [ECLWebRTC](https://webrtc.ecl.ntt.com/e
 
 If you are looking for the repository of ECLWebRTC, please see the [new Android SDK](https://github.com/skyway/skyway-android-sdk).
 
-このレポジトリは、2018年3月に提供を終了する旧SkyWayの●●●です。[新しいSkyWay](https://webrtc.ecl.ntt.com/?origin=skyway)への移行をお願いします。
+このレポジトリは、2018年3月に提供を終了する旧SkyWayのAndroid SDKです。[新しいSkyWay](https://webrtc.ecl.ntt.com/?origin=skyway)への移行をお願いします。
 
 すでに新しいSkyWayをご利用の方は、[新しいAndroid SDK](https://github.com/skyway/skyway-android-sdk)をご覧ください。
 
